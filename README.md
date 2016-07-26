@@ -1,4 +1,9 @@
 # Self-Scripts
 Some automatically scripts
 
-## 占坑
+## bat
+* startLaravelServer
+
+## sh
+
+##p pthon
